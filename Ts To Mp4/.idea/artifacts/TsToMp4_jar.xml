@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TsToMp4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TsToMp4_jar</output-path>
+    <root id="archive" name="TsToMp4.jar">
+      <element id="module-output" name="TsToMp4" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/axet/jlame/3.100/jlame-3.100.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
